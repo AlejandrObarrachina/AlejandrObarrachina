@@ -1,9 +1,8 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
 </div>  
   
 
-## <div align="center">I'm Alejandro, a full-time back-end developer 🚀 </div>  
+## <div align="center">I'm Alejandro, a full-time back-end developer 🚀 </div>  <br/>
   
 
 - 🌱 I’m currently learning Docker and Kubernetes  
